@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConfirmNewRoundTime" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIAAAAAAAAAABgAAQQgAAAAABAAAEAACAEACAAAAA=</HashCode>
+      <FileName>ConfirmNewRoundTime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Message_Preamble" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEQAAEAAIARAAAAAAgAAAEAAAAA=</HashCode>
+      <FileName>Message_Preamble.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRound" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAABgAAAAoAAAAAAAAAgAQCAEQCAAFAA=</HashCode>
+      <FileName>NewRound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutOfSincPuck" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAIAQABAAAAAEAAAgCAAAAABCAECCAAAAA=</HashCode>
+      <FileName>OutOfSincPuck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="player" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMIAAAAAAAAFgIUAAAIAAACAAAAAiCBAAwAAAAAIAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerNewLocation" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgwAAAAAAAAAIAAAAAAAAAAAgAAACAABCAEACAAAAA=</HashCode>
+      <FileName>PlayerNewLocation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="puck" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQBAAAAABAAAAAAAAAASAAAAAAAAAQQGAAAAQAA=</HashCode>
+      <FileName>puck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sincPuck" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAIAEEBAAgEAAAAABCAEACCAAAA=</HashCode>
+      <FileName>sincPuck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SyncHitWall" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAQAAAAAAAABAAAQgAABAgAAAAAARCAEICAAAAA=</HashCode>
+      <FileName>SyncHitWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Client" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAIBAAAAEAEgAAAACACAAAAAAAAJEAAAAAABACkBME=</HashCode>
+      <FileName>TCP_Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Server" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQIAACAAEADAAAAAACAAAAIAAACAggAgAgAACUIgQ=</HashCode>
+      <FileName>TCP_Server.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UDP_Client" Collapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gFxwAACAACQFhAkBCABBABAIAgAANAJQABgAAAAAoEA=</HashCode>
+      <FileName>UDP_Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2f" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAABgQGAAAAA=</HashCode>
+      <FileName>Vector2f.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

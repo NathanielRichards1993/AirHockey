@@ -1,0 +1,65 @@
+﻿1>------ Build started: Project: Air Hockey(multiplayer game), Configuration: Debug Win32 ------
+1>  PlayerNewLocation.cpp
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\playernewlocation.cpp(29): warning C4244: 'initializing' : conversion from 'float' to 'short', possible loss of data
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\playernewlocation.cpp(31): warning C4244: 'initializing' : conversion from 'float' to 'unsigned long', possible loss of data
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\playernewlocation.cpp(33): warning C4244: 'initializing' : conversion from 'float' to 'short', possible loss of data
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\playernewlocation.cpp(35): warning C4244: 'initializing' : conversion from 'float' to 'unsigned long', possible loss of data
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\playernewlocation.cpp(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\playernewlocation.cpp(72): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\playernewlocation.cpp(94): error C2065: 's' : undeclared identifier
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\playernewlocation.cpp(94): error C2143: syntax error : missing ';' before '}'
+1>  Game.cpp
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\tcp_client.h(7): warning C4005: 'DEFAULT_BUFLEN' : macro redefinition
+1>          c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\udp_client.h(13) : see previous definition of 'DEFAULT_BUFLEN'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(116): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(304): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(305): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(314): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(324): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(325): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(340): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(349): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(359): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(360): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(370): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(371): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(374): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(378): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(382): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(479): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(480): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(481): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(570): error C2661: 'SyncHitWall::SyncHitWall' : no overloaded function takes 3 arguments
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(644): error C2661: 'PlayerNewLocation::PlayerNewLocation' : no overloaded function takes 2 arguments
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(657): error C2661: 'PlayerNewLocation::PlayerNewLocation' : no overloaded function takes 2 arguments
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(844): error C2660: 'timeFill' : function does not take 1 arguments
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(849): error C2661: 'NewRound::NewRound' : no overloaded function takes 3 arguments
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(861): error C2661: 'SyncHitWall::SyncHitWall' : no overloaded function takes 3 arguments
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(922): error C2660: 'timeFill' : function does not take 1 arguments
+1>c:\users\nathaniel\desktop\work\new folder\air hockey(multiplayer game)\air hockey(multiplayer game)\game.cpp(927): error C2661: 'NewRound::NewRound' : no overloaded function takes 3 arguments
+1>  Generating Code...
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

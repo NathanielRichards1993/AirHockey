@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Air Hockey(multiplayer game)", "Air Hockey(multiplayer game)\Air Hockey(multiplayer game).vcxproj", "{4761DC29-2530-44BD-8729-2442C561EADF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117} = {BC06AD08-8D04-4BC7-B156-7C5B79AB6117}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleTestHockey", "GoogleTestHockey\GoogleTestHockey.vcxproj", "{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clock_Function", "clock_Function\clock_Function.vcxproj", "{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4761DC29-2530-44BD-8729-2442C561EADF}.Debug|ARM.ActiveCfg = Debug|Win32
+		{4761DC29-2530-44BD-8729-2442C561EADF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4761DC29-2530-44BD-8729-2442C561EADF}.Debug|Win32.Build.0 = Debug|Win32
+		{4761DC29-2530-44BD-8729-2442C561EADF}.Debug|x64.ActiveCfg = Debug|Win32
+		{4761DC29-2530-44BD-8729-2442C561EADF}.Release|ARM.ActiveCfg = Release|Win32
+		{4761DC29-2530-44BD-8729-2442C561EADF}.Release|Win32.ActiveCfg = Release|Win32
+		{4761DC29-2530-44BD-8729-2442C561EADF}.Release|Win32.Build.0 = Release|Win32
+		{4761DC29-2530-44BD-8729-2442C561EADF}.Release|x64.ActiveCfg = Release|Win32
+		{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}.Debug|ARM.ActiveCfg = Debug|Win32
+		{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}.Debug|Win32.Build.0 = Debug|Win32
+		{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}.Debug|x64.ActiveCfg = Debug|Win32
+		{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}.Release|ARM.ActiveCfg = Release|Win32
+		{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}.Release|Win32.ActiveCfg = Release|Win32
+		{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}.Release|Win32.Build.0 = Release|Win32
+		{2E4CF39B-8CB1-46A4-854A-DC8C1F90AF5D}.Release|x64.ActiveCfg = Release|Win32
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}.Debug|ARM.ActiveCfg = Debug|Win32
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}.Debug|Win32.Build.0 = Debug|Win32
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}.Debug|x64.ActiveCfg = Debug|Win32
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}.Release|ARM.ActiveCfg = Release|Win32
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}.Release|Win32.ActiveCfg = Release|Win32
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}.Release|Win32.Build.0 = Release|Win32
+		{BC06AD08-8D04-4BC7-B156-7C5B79AB6117}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
