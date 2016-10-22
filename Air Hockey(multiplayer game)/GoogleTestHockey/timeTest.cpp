@@ -194,6 +194,9 @@ TEST(myTime,minusSeconds)
 
 	MyTime myTime;
 
-	rValue = myTime.minusTime(
+	for(int i = 0; i < 3600; i++)
+	{
+		rValue = myTime.minusTime(
+	}
 
 }
