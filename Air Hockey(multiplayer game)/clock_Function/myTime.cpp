@@ -5,8 +5,7 @@
 
 namespace clockFunction
 {
-	/*First 6 signifcant figures are hours.mins.sec no space
-	betweem numbers*/
+	/*First 6 signifcant figures are hours.mins.sec no space betweem numbers*/
 	void  MyTime::timeFill(unsigned short* hour, unsigned short* minute, unsigned short* seconds)
 	{
 		time_t tock;
